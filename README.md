@@ -19,7 +19,7 @@ $ make version=0.1.0
 
 | Variable   | Description |
 |:----------:|-------------|
-| **`KAFKA_HOSTPORT`** | Kafka instance to connect, e.g. <externalIP>:<JMXPort> (requires JMX enabled). |
+| **`KAFKA_HOSTPORT`** | Kafka instance to connect, e.g. `<externalIP>:<JMXPort>` (requires JMX enabled). |
 
 
 ## Docker
