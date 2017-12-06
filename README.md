@@ -1,6 +1,6 @@
 ## dcos-insights-kafka-prometheus-exporter
 
-Tool that consumes a Kafka topic produced by the [dcos-plunger](https://github.com/mesosphere/dcos-insights-plunger) and exposes the data in the Prometheus supported [format](https://prometheus.io/docs/instrumenting/exposition_formats/) to scrape.
+JMX to Prometheus exporter: a collector that can configurably scrape and expose mBeans of a JMX target.
 
 ## Dependencies
 
